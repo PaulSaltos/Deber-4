@@ -38,3 +38,24 @@ Circuitos En serie-paralelo Y Metodo de Analisis
 
 # 2.	MARCO TEORICO 
 
+![image](https://user-images.githubusercontent.com/85178869/125468385-08b7b79e-73c0-4b7b-93e1-2d45c1c211b0.png)
+
+
+![image](https://user-images.githubusercontent.com/85178869/125468202-e9f3c22c-9983-4230-8d05-090c114bcb9c.png)
+
+# 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
+
+
+
+
+
+
+
+
+
+CAPITULO 8: Métodos de análisis
+PROBLEMAS
+
+8-1 Fuentes de corriente constante 
+
+
