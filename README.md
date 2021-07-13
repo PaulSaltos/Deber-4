@@ -90,7 +90,7 @@ PROBLEMAS
 ![image](https://user-images.githubusercontent.com/85178869/125470389-4a2a9344-a4b2-456b-8ab8-8541c4a47c2a.png)
 
 # 4.	VIDEO 
-
+https://youtu.be/Ru5ZrhFXlVo
 # 5.	CONCLUSIONES 
 
 • Circuito en serie:
