@@ -93,16 +93,6 @@ PROBLEMAS
 
 # 5.	CONCLUSIONES 
 
-•
-
-• Finalmente resaltamos que cumplimos con el objetivo de Diseñar un circuito resistivo aplicando Leyes de Ohm y Leyes de Kirchhoff, cumpliendo con tareas previas y haciendo un uso eficiente de las herramientas a nuestra disposición.
-
-• Cada método de análisis nos permite hallar, en el caso de mallas, la corriente que pasa por una resistencia y en el caso del método de nodos, la diferencia de potencial entre dos puntos (nodos) no se puede decidir cuál es el mejor método ya que su aplicación depende de la situación en la que nos encontremos, es por ello que aprender ambos métodos es muy importante para tener las herramientas necesarias en la solución de problemas por consiguiente conseguiríamos ser más eficientes y mejor profesional y/o técnico.
-
-# 6.	BIBLIOGRAFÍA 
-
-• Robbins, A. H., & Miller, W. C. (2010). Análisis de circuitos eléctricos. Teoría y práctica [recurso electrónico].: Vol. 4 Edición (Revisado ed.). Cengage Learning Editores, S.A. De C.V. http://www.untumbes.edu.pe/vcs/biblioteca/document/varioslibros/An%C3%A1lisis%20de%20circuitos.pdf
-
 • Circuito en serie:
 - La corriente que fluye por el circuito es la misma en el circuito completo y en cada dispositivo.
 - El voltaje en cada dispositivo será distinto si la resistencia de estos es distinta.
@@ -116,6 +106,15 @@ PROBLEMAS
 - La suma de las corrientes de cada dispositivo, será igual a la corriente total del circuito.
 - La resistencia total, es menor que el valor de la resistencia más pequeña del circuito.
 
+
+• Finalmente resaltamos que cumplimos con el objetivo de Diseñar un circuito resistivo aplicando Leyes de Ohm y Leyes de Kirchhoff, cumpliendo con tareas previas y haciendo un uso eficiente de las herramientas a nuestra disposición.
+
+• Cada método de análisis nos permite hallar, en el caso de mallas, la corriente que pasa por una resistencia y en el caso del método de nodos, la diferencia de potencial entre dos puntos (nodos) no se puede decidir cuál es el mejor método ya que su aplicación depende de la situación en la que nos encontremos, es por ello que aprender ambos métodos es muy importante para tener las herramientas necesarias en la solución de problemas por consiguiente conseguiríamos ser más eficientes y mejor profesional y/o técnico.
+
+# 6.	BIBLIOGRAFÍA 
+
 • Robbins, A. H., & Miller, W. C. (2010). Análisis de circuitos eléctricos. Teoría y práctica [recurso electrónico].: Vol. 4 Edición (Revisado ed.). Cengage Learning Editores, S.A. De C.V. http://www.untumbes.edu.pe/vcs/biblioteca/document/varioslibros/An%C3%A1lisis%20de%20circuitos.pdf
 
 • https://es.slideshare.net/AndyDextre/circuitos-electricos-1-50946715
+
+•https://html.rincondelvago.com/circuito-en-paralelo.html#:~:text=Objetivos%20espec%C3%ADficos%3A,paralelo%20tanto%20te%C3%B3ricamente%20como%20pr%C3%A1cticamente.
